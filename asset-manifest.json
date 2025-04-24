@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vegetables-score-tracker/static/css/main.8b8a1712.css",
+    "main.js": "/vegetables-score-tracker/static/js/main.ed98c384.js",
+    "static/js/453.8d21a6b9.chunk.js": "/vegetables-score-tracker/static/js/453.8d21a6b9.chunk.js",
+    "index.html": "/vegetables-score-tracker/index.html",
+    "main.8b8a1712.css.map": "/vegetables-score-tracker/static/css/main.8b8a1712.css.map",
+    "main.ed98c384.js.map": "/vegetables-score-tracker/static/js/main.ed98c384.js.map",
+    "453.8d21a6b9.chunk.js.map": "/vegetables-score-tracker/static/js/453.8d21a6b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8a1712.css",
+    "static/js/main.ed98c384.js"
+  ]
+}
